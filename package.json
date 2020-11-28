@@ -1,0 +1,25 @@
+{
+  "name": "teste_Vercell_and_next.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pendragon21/teste_Vercell_and_next.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pendragon21/teste_Vercell_and_next.js/issues"
+  },
+  "homepage": "https://github.com/Pendragon21/teste_Vercell_and_next.js#readme",
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
